@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DOYEON_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DoYeon'sCODE&fontSize=90)
 
-🌈 ## **Welcom to DOYEON_CODE** 👋
+🌈 **Welcom to DoYeon's CODE** 👋
 
 <a href="https://github.com/gamja-kim03"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=gamja-kim03&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="DoYeon's github stats" /></a>
 
