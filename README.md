@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=DOYEON_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=DOYEON_CODE&fontSize=70)
 
 🌈 ## Hi **Welcom to DOYEON_CODE** 👋
 
