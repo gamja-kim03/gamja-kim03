@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer)
 <!--
 **gamja-kim03/gamja-kim03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
